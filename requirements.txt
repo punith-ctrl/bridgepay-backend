@@ -4,3 +4,4 @@ mysql-connector-python
 requests
 gunicorn
 qrcode[pil]
+python-dotenv
